@@ -1,8 +1,7 @@
-    
 <!DOCTYPE html>
 <html lang="en">
-    <head></head>
-        <title></title>
+    <head>
+        <title>Delight, l'appli pour cuisiner sans gâcher</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="assets/css/bootstrap.min.css" rel="stylesheet"> 
@@ -17,24 +16,8 @@
 </div>
 <br>
 
-
-
-
-
-
-
  <div class="slogan">
-
-<a href="pageAccueil.php"><strong> <h2>
-Pour cuisiner sur mesure, cliquez ici
-
-</h2> </strong> </a>
-
-
+     <h2><a href="pageAccueil.php"><strong>Pour cuisiner sur mesure, cliquez ici</strong></a></h2>
  </div>
 
-
-
-
-
-<?php include("pieddepage.php"); ?>
+<?php include("piedDePage.php"); ?>
